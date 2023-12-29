@@ -15,3 +15,7 @@ Create Random Commits on your Github profile.
 
 - [Github Actions](https://github.com/features/actions)
 - [saleem](https://saleem.pk)
+
+## Consider to Support
+
+- [Buy me a coffee](https://www.buymeacoffee.com/saleem.coder)
