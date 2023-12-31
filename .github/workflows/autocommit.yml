@@ -28,7 +28,7 @@ jobs:
 
           arr=("Commit 1" "Commit 2" "Commit 3" "Commit 4" "Commit 5" "Commit 6")
           
-          loop=$(( ( RANDOM % 10 )  + 1 ))
+          loop=$(( ( RANDOM % 5 )  + 1 ))
           for i in $(seq 1 $loop); do
             d=$(date '+%Y-%m-%dT%H:%M:%SZ')
             echo $d >> Update_file
